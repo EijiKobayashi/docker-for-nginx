@@ -21,8 +21,8 @@ Docker Desktop をインストールしてください。
 
 #### 起動
 
-- Web: `localhost:3000`
-- phpMyAdmin: `localhost:8080`
+- Web: [localhost:3000](http//localhost:3000)
+- phpMyAdmin: [localhost:8080](http://localhost:8080)
 
 ```
 $ docker-compose up -d
