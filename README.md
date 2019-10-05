@@ -19,6 +19,14 @@ Docker Desktop をインストールしてください。
 
 ## 使い方
 
+#### 構築
+
+プロジェクトディレクトリに移動して
+
+```
+$ docker-compose build --no-cache
+```
+
 #### 起動
 
 - Web: [localhost:3000](http//localhost:3000)
